@@ -56,7 +56,9 @@ var characters = {
 186:';',
 187:'=',
 189:'-',
-32:' '
+32:' ',
+9:'    ',
+13:"\n"
 }
 
 var shift_characters = {
